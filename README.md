@@ -1,10 +1,12 @@
 # fyger_ev3
 
-The Course Repo for FYGER: the "First Year Great Egg Race," a 1st year undergraduate lab activity for [EEE](https://www.sheffield.ac.uk/eee) students at [The University of Sheffield](https://www.sheffield.ac.uk).
+The Course Repo for FYGER, aka: the **"First Year Great Egg Race!"**
 
-[Lab sheet available here](https://docs.google.com/document/d/1n8xcUk2YctVLMyU9AChoeFUUrJC2x7ok6f-WtzWD2ik/edit?usp=sharing).
+FYGER is a 1st year undergraduate lab activity for [EEE](https://www.sheffield.ac.uk/eee) students at [The University of Sheffield](https://www.sheffield.ac.uk).
 
-Developed by [Dr Tom Howard](https://www.sheffield.ac.uk/engineering/diamond-engineering/our-staff/tom-howard)  
+[The FYGER lab sheet is available here](https://docs.google.com/document/d/1n8xcUk2YctVLMyU9AChoeFUUrJC2x7ok6f-WtzWD2ik/edit?usp=sharing).
+
+These resources have been developed by [Dr Tom Howard](https://www.sheffield.ac.uk/engineering/diamond-engineering/our-staff/tom-howard)  
 [Multidisciplinary Engineering Education](https://www.sheffield.ac.uk/engineering/diamond-engineering/about-us)  
 
 Copyright (c) 2023 The University of Sheffield
